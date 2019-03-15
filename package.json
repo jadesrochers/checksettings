@@ -1,0 +1,19 @@
+{
+    "name": "@jadesrochers/checksettings",
+    "version": "0.1.0",
+    "license": "Apache-2.0",
+    "author": "Jared Desrochers",
+    "repository": "",
+    "description": "Check settings object for required members",
+    "main": "check.js",
+    "keywords": [],
+    "dependencies": {
+        "ramda": "^0.26.1"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^24.5.0"
+    }
+}
